@@ -2,9 +2,7 @@ This is the Baxter Time Validator Plugin for Seam Forge.
 
 Install notes:
 
-Plugin is built of current forge SNAPSHOT, and requires this patch:
-https://github.com/forge/core/pull/31
-
+Download and install Forge Alpha4: https://repository.jboss.org/nexus/content/groups/public/org/jboss/forge/forge-distribution/1.0.0.Alpha4/forge-distribution-1.0.0.Alpha4.zip
 
 To use, start forge and type:
 
