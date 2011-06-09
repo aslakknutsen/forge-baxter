@@ -1,0 +1,15 @@
+This is the Baxter Time Validator Plugin for Seam Forge.
+
+Install notes:
+
+Plugin is built of current forge SNAPSHOT, and requires this patch:
+https://github.com/forge/core/pull/31
+
+
+To use, start forge and type:
+
+forge git-plugin git://github.com/aslakknutsen/forge-baxter.git
+
+When install, you can check if it's Baxter time at any point by executing the following:
+
+baxter time
